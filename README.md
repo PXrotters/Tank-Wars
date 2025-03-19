@@ -55,7 +55,9 @@
 
 ---
 
-##✅ Funcționalități Avansate
+## ✅ Funcționalități Avansate
 ✔️ Alunecare de teren în zonele abrupte
 ✔️ Efecte vizuale și animații
 ✔️ Traiectorie predictivă a proiectilului
+
+---
